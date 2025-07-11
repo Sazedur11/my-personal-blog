@@ -12,6 +12,7 @@ const Blogs = () => {
 
     return (
         <div>
+            <h1 className="text-3xl font-bold">This is my latest blog</h1>
             <h2>Name: {blogs.length}</h2>
         </div>
     );
