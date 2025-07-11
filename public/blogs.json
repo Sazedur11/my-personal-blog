@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "author_name": "Emily Carter",
+    "author_img": "https://randomuser.me/api/portraits/women/44.jpg",
+    "banner_img": "https://picsum.photos/id/1015/800/400",
+    "title": "Mastering React in 30 Days",
+    "post_date": "2025-07-10",
+    "hashtag": "#ReactJS #Frontend #JavaScript",
+    "reading_duration": 5
+  },
+  {
+    "id": 2,
+    "author_name": "Liam Johnson",
+    "author_img": "https://randomuser.me/api/portraits/men/52.jpg",
+    "banner_img": "https://picsum.photos/id/1020/800/400",
+    "title": "Why SEO Matters in Modern Web Design",
+    "post_date": "2025-06-28",
+    "hashtag": "#SEO #WebDesign #GoogleRanking",
+    "reading_duration": 6
+  },
+  {
+    "id": 3,
+    "author_name": "Sophia Nguyen",
+    "author_img": "https://randomuser.me/api/portraits/women/68.jpg",
+    "banner_img": "https://picsum.photos/id/1033/800/400",
+    "title": "Tailwind CSS: A Developer’s Dream",
+    "post_date": "2025-07-01",
+    "hashtag": "#TailwindCSS #CSS #WebDev",
+    "reading_duration": 4
+  },
+  {
+    "id": 4,
+    "author_name": "Noah Smith",
+    "author_img": "https://randomuser.me/api/portraits/men/60.jpg",
+    "banner_img": "https://picsum.photos/id/1041/800/400",
+    "title": "10 Tips to Speed Up Your Website",
+    "post_date": "2025-07-05",
+    "hashtag": "#Performance #WebSpeed #UX",
+    "reading_duration": 7
+  },
+  {
+    "id": 5,
+    "author_name": "Ava Patel",
+    "author_img": "https://randomuser.me/api/portraits/women/22.jpg",
+    "banner_img": "https://picsum.photos/id/1052/800/400",
+    "title": "Understanding JavaScript Closures",
+    "post_date": "2025-06-30",
+    "hashtag": "#JavaScript #Programming #WebDev",
+    "reading_duration": 8
+  }
+]

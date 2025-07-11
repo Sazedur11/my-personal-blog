@@ -1,13 +1,14 @@
 
 import './App.css'
+import Blogs from './components/blogs/Blogs'
+import Header from './header/Header'
 
 function App() {
 
   return (
     <>
-      
-      <h1 className='text-xl bg-amber-200 p-3'>Vite + React</h1>
-      
+      <Header></Header>
+      <Blogs></Blogs>
     </>
   )
 }
